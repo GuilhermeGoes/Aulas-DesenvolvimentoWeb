@@ -1,0 +1,25 @@
+
+.titulo_pagina{
+    font-size: 70px;
+    line-height: 1.5;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: lightgrey;
+    padding-top:5px;
+    
+}
+
+.imagem_titulo{
+    width: 100px;
+    height: 100px;
+    float: left;
+    padding-bottom: 5px;
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-right: 20px;
+}
+
+.imagem_menu{
+    width: 300px;
+}
+
+#navbar ul li{display: inline;}

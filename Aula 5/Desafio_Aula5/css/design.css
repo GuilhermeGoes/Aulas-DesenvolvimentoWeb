@@ -1,0 +1,25 @@
+#marca {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    color:#CD3700;
+}
+
+#banner-text {
+    font-family: 'Courier New', Courier, monospace;
+    color:#CD3700;
+}
+
+#card-image {
+    width: 1250px;
+    height:400px;
+}
+
+#card-text {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    color: #CD3700;
+}
+
+#card {
+    text-align: center;
+}
